@@ -55,6 +55,51 @@ CONCLUSÃO:
 
 
 
+## Dopplerfluxometria arterial da aorta abdominal e artérias ilíacas
+apelidos: doppler aorta, doppler ilíacas, doppler arterial de aorta e ilíacas, dopplerfluxometria aorta ilíacas
+
+DOPPLERFLUXOMETRIA ARTERIAL DA AORTA ABDOMINAL E ARTÉRIAS ILÍACAS
+
+TÉCNICA: Exame realizado com transdutor convexo, no modo B e com avaliação do fluxo ao Estudo Doppler.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Aorta abdominal pérvia, de calibre regular, com parede levemente ateromatosa, com fluxo laminar, anterógrado, de velocidade normal e curva espectral trifásica.
+
+- Artéria ilíaca comum direita pérvia, de calibre regular, com parede levemente ateromatosa, com fluxo laminar, anterógrado, de velocidade normal e curva espectral trifásica.
+
+- Artéria ilíaca comum esquerda pérvia, de calibre regular, com parede levemente ateromatosa, com fluxo laminar, anterógrado, de velocidade normal e curva espectral trifásica.
+
+- Artéria ilíaca externa direita pérvia, de calibre regular, com parede levemente ateromatosa, com fluxo laminar, anterógrado, de velocidade normal e curva espectral trifásica.
+
+- Artéria ilíaca externa esquerda pérvia, de calibre regular, com parede levemente ateromatosa, com fluxo laminar, anterógrado, de velocidade normal e curva espectral trifásica.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
+
+## Ultrassonografia da região lombossacral
+apelidos: us lombossacral, usg lombossacral, us região lombossacral, lombossacral
+
+ULTRASSONOGRAFIA DA REGIÃO LOMBOSSACRAL
+
+TÉCNICA: Exame realizado utilizando-se transdutor multifrequencial com técnica multiplanar.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+- Pele e tecido subcutâneo de espessura e textura mantidas.
+- Cone medular de morfologia habitual e tópico.
+- Cauda equina e filo terminal de configuração usual e mobilidade preservada.
+- Não há sinais de ancoramento.
+- Estruturas ósseas posteriores conservadas, sem evidência de disrafismo.
+- Não há definição de formações patológicas císticas ou sólidas, meningocele, lipoma ou seio dérmico.
+- Cartilagem sacral anatômica.
+
+CONCLUSÃO:
+- Estudo ultrassonográfico sem evidentes anormalidades apreciáveis pelo método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
