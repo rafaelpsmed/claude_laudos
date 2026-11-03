@@ -100,6 +100,28 @@ LAUDO:
 CONCLUSÃO:
 - Estudo ultrassonográfico sem evidentes anormalidades apreciáveis pelo método.
 
+## Tomografia computadorizada multislice da coluna lombar
+apelidos: tc coluna lombar, tomografia coluna lombar, tc lombar, tomografia lombar
+
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA LOMBAR
+
+MÉTODO:
+Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Corpos vertebrais alinhados, com alturas, formas e densidades normais.
+Espaços discais com alturas preservadas.
+Demais espaços discais preservados.
+Discos intervertebrais sem sinais de herniações e/ou protrusões.
+Canal vertebral e forames de conjugação com calibres normais.
+Elementos dos arcos posteriores íntegros.
+Estruturas musculares paravertebrais com atenuação conservada.
+
+IMPRESSÃO TOMOGRÁFICA:
+Exame sem alterações perceptíveis ao método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
