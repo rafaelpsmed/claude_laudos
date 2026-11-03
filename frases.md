@@ -49,3 +49,17 @@ método: ultrassonografia
 órgão: tireoide
 descrição: sólido, hipoecóico, contornos regulares, limites bem definidos, sem microcalcificações, localizado no {localização}, medindo {medidas} cm (ACR TI-RADS 4).
 conclusão: Nódulo tireoidiano acima descrito.
+
+## Osteófitos marginais (tomografia)
+apelidos: osteófitos, osteófitos marginais, alterações degenerativas incipientes, espondiloartrose incipiente
+método: tomografia
+órgão: corpos vertebrais
+descrição: Diminutos osteófitos marginais nas faces anteriores de {níveis}.
+conclusão: Alterações degenerativas incipientes, caracterizadas por diminutos osteófitos marginais nas faces anteriores de {níveis}.
+
+## Vértebra em limbus (tomografia)
+apelidos: limbus, vértebra em limbus, limbus vertebral
+método: tomografia
+órgão: corpos vertebrais
+descrição: Alteração cortical no segmento anterossuperior de {nível}, caracterizando vértebra em limbus (variante anatômica).
+conclusão: Vértebra em limbus em {nível} (variante anatômica).
