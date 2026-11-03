@@ -79,6 +79,27 @@ LAUDO:
 CONCLUSÃO:
 - Não identificamos alterações patológicas apreciáveis ao método.
 
+## Ultrassonografia da região lombossacral
+apelidos: us lombossacral, usg lombossacral, us região lombossacral, lombossacral
+
+ULTRASSONOGRAFIA DA REGIÃO LOMBOSSACRAL
+
+TÉCNICA: Exame realizado utilizando-se transdutor multifrequencial com técnica multiplanar.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+- Pele e tecido subcutâneo de espessura e textura mantidas.
+- Cone medular de morfologia habitual e tópico.
+- Cauda equina e filo terminal de configuração usual e mobilidade preservada.
+- Não há sinais de ancoramento.
+- Estruturas ósseas posteriores conservadas, sem evidência de disrafismo.
+- Não há definição de formações patológicas císticas ou sólidas, meningocele, lipoma ou seio dérmico.
+- Cartilagem sacral anatômica.
+
+CONCLUSÃO:
+- Estudo ultrassonográfico sem evidentes anormalidades apreciáveis pelo método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
