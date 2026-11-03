@@ -42,3 +42,10 @@ método: ultrassonografia
 descrição: Presença de imagem nodular assim caracterizada:
 N{número}: {composição}, {ecogenicidade}, {contornos}, {definição}, {calcificações}, localizado no {localização} do lobo {lado}, medindo {medidas} cm (ACR TI-RADS {categoria}).
 conclusão: Nódulo tireoidiano acima descrito.
+
+## Nódulo tireoidiano TI-RADS 4 (ultrassonografia)
+apelidos: nódulo tirads 4, nódulo TI-RADS 4, nódulo TR4, tirads 4
+método: ultrassonografia
+órgão: tireoide
+descrição: sólido, hipoecóico, contornos regulares, limites bem definidos, sem microcalcificações, localizado no {localização}, medindo {medidas} cm (ACR TI-RADS 4).
+conclusão: Nódulo tireoidiano acima descrito.
