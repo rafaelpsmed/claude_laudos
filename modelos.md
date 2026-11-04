@@ -122,6 +122,27 @@ Estruturas musculares paravertebrais com atenuação conservada.
 IMPRESSÃO TOMOGRÁFICA:
 Exame sem alterações perceptíveis ao método.
 
+## Tomografia computadorizada multislice da coluna dorsal e lombar
+apelidos: tc coluna dorsal e lombar, tc coluna dorsolombar, tomografia coluna dorsal e lombar, tomografia coluna dorsolombar, tc dorsolombar
+
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA DORSAL E LOMBAR
+
+MÉTODO:
+Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Corpos vertebrais dorsais e lombares alinhados, com alturas, formas e densidades normais.
+Espaços discais com alturas preservadas.
+Discos intervertebrais sem sinais de herniações e/ou protrusões.
+Canal vertebral e forames de conjugação com calibres normais.
+Elementos dos arcos posteriores íntegros.
+Estruturas musculares paravertebrais com atenuação conservada.
+
+IMPRESSÃO TOMOGRÁFICA:
+Exame sem alterações perceptíveis ao método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
