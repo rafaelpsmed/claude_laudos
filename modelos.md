@@ -322,3 +322,22 @@ LAUDO:
 
 CONCLUSÃO:
 - Teste negativo para trombose venosa profunda nos membros inferiores.
+
+
+## Ultrassonografia do aparelho urinário
+apelidos: us aparelho urinário, ultrassonografia aparelho urinário
+
+ULTRASSONOGRAFIA DO APARELHO URINÁRIO
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+
+Rins de dimensões normais, mostrando parênquima de ecogenicidade habitual, com preservação da diferenciação córtico-medular. Ausência de processos expansivos, dilatações e cálculos calicinais identificáveis ao método.
+Diâmetro longitudinal do rim D: cm; Espessura do parênquima: mm.
+Diâmetro longitudinal do rim E: cm; Espessura do parênquima: mm.
+
+Bexiga com distensão satisfatória por conteúdo anecoide, de paredes finas e regulares.
+
+CONCLUSÃO:
+Ultrassonografia do aparelho urinário sem anormalidades.
