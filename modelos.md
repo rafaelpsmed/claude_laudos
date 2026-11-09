@@ -143,6 +143,25 @@ Estruturas musculares paravertebrais com atenuação conservada.
 IMPRESSÃO TOMOGRÁFICA:
 Exame sem alterações perceptíveis ao método.
 
+## Ressonância magnética de mão
+apelidos: rm mão, rm de mão, ressonância de mão, ressonância mão
+
+RESSONÂNCIA MAGNÉTICA DE MÃO {lado}
+
+INDICAÇÃO: {indicação}
+
+TÉCNICA: Exame realizado em aparelho de alto campo (1,5 Tesla), pela técnica spin-echo e gradiente echo com imagens ponderadas em T1 / T2 / DP algumas delas com saturação de sinal de gordura, antes e após a injeção do meio de contraste paramagnético.
+
+LAUDO:
+Estruturas ósseas de morfologia e características de sinal e alinhamento preservados.
+Nervos mediano e ulnar de espessura e sinal normais.
+Complexo triangular fibrocartilaginoso de aspecto normal.
+Não foi observado derrame articular.
+A injeção venosa de meio de contraste paramagnético não revelou zonas de realce anômalo.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
