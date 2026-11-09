@@ -341,3 +341,22 @@ Bexiga com distensão satisfatória por conteúdo anecoide, de paredes finas e r
 
 CONCLUSÃO:
 Ultrassonografia do aparelho urinário sem anormalidades.
+
+
+## Ultrassonografia do quadril
+apelidos: us quadril, ultrassonografia quadril direito
+
+ULTRASSONOGRAFIA DO QUADRIL {lado}
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e subcutâneo normais.
+- Tendões regionais de espessura e ecotextura normais.
+- Musculatura regional com disposição fascicular conservada. Ausência de áreas de rotura.
+- Ausência de derrame articular.
+- Ausência de distensões bursais.
+
+CONCLUSÃO:
+- Exame ultrassonográfico dentro dos limites da normalidade.
