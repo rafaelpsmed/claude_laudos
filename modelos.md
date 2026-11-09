@@ -380,3 +380,39 @@ Bexiga urinária de paredes regulares e capacidade conservada. Conteúdo anecoic
 
 CONCLUSÃO:
 - Aspecto ultrassonográfico normal das estruturas avaliadas.
+
+
+## Ultrassonografia das carótidas e vertebrais com Doppler
+apelidos: us carótidas, doppler carótidas, ultrassonografia carotídea com Doppler
+
+ULTRASSONOGRAFIA DAS CARÓTIDAS E VERTEBRAIS COM DOPPLER
+
+Indicação clínica: pesquisa de placas ateromatosas
+
+LAUDO:
+
+- Artérias carótidas comuns, internas e externas de trajeto e calibre normais.
+
+- Não caracterizamos placas ateromatosas no presente exame.
+
+- Complexo médio intimal direito com espessura de cm.
+
+- Complexo médio intimal esquerdo com espessura de cm.
+
+- Dopplerfluxometria preservada em todos os segmentos arteriais analisados.
+
+- Artérias vertebrais com fluxo presente e anterógrado.
+
+DOPPLERFLUXOMETRIA:
+                                                          VPSM(cm/s)   VPDM(cm/s)
+CCD		      
+CID			
+CED			
+VD			
+CCE			
+CIE			
+CEE			
+VE			
+
+CONCLUSÃO: 
+- Exame sem alterações significativas.
