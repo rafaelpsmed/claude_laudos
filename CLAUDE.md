@@ -54,7 +54,10 @@ O que o usuário ditar tem prioridade sobre `frases.md`, que tem prioridade sobr
 - Use negrito no título do exame e nos rótulos `TÉCNICA:`, `INDICAÇÃO:`, `LAUDO:` e `CONCLUSÃO:`. O texto após cada rótulo permanece sem negrito.
 - Não use marcadores gráficos (bullets); apresente os itens do laudo e da conclusão com hífen.
 - Cada exame começa em nova página no arquivo consolidado, mantendo título e conclusão próprios.
-- Para evitar corrupção de acentos, gere RTF válido e represente caracteres não ASCII com escapes Unicode RTF (`\\uN?`). Não duplique barras invertidas nos comandos RTF. Use escapes signed de 16 bits para valores acima de 32767 e confirme que acentos, cedilha e símbolos estão preservados.
+- Escreva um comando RTF `\par` ao final de cada parágrafo e use `\par\par` para linhas em branco. Quebras comuns de linha no código-fonte não criam parágrafos visíveis no RTF. Use `\page` entre exames.
+- Delimite o negrito em grupos RTF (por exemplo, `{\b TÍTULO}`), preservando o espaço entre rótulos e texto.
+- Antes da entrega, abra ou converta o RTF com um leitor compatível e confira os títulos, parágrafos, acentos e separação dos exames. Identificar apenas a extensão ou o tipo do arquivo não basta.
+- Para evitar corrupção de acentos, gere RTF válido e represente caracteres não ASCII com escapes Unicode RTF (`\uN?`). Não duplique barras invertidas nos comandos RTF. Use escapes signed de 16 bits para valores acima de 32767 e confirme que acentos, cedilha e símbolos estão preservados.
 
 
 ### Conclusão
