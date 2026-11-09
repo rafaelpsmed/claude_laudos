@@ -360,3 +360,23 @@ LAUDO:
 
 CONCLUSÃO:
 - Exame ultrassonográfico dentro dos limites da normalidade.
+
+
+## Ultrassonografia da próstata
+apelidos: us próstata, ultrassonografia próstata, ultrassonografia prostática
+
+ULTRASSONOGRAFIA DA PRÓSTATA
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Próstata com contornos regulares e ecogenicidade habitual.
+- Medidas da próstata: # cm (peso estimado = # g).
+Vesículas seminais de topografia, morfologia, dimensões e ecogenicidade normais.
+Ureteres distais sem alterações detectáveis ao método.
+Bexiga urinária de paredes regulares e capacidade conservada. Conteúdo anecoico homogêneo.
+- Volume urinário pré-miccional: # mL.
+- Volume residual após a micção: # mL.
+
+CONCLUSÃO:
+- Aspecto ultrassonográfico normal das estruturas avaliadas.
