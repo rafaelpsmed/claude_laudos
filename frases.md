@@ -64,17 +64,9 @@ método: tomografia
 descrição: Alteração cortical no segmento anterossuperior de {nível}, caracterizando vértebra em limbus (variante anatômica).
 conclusão: Vértebra em limbus em {nível} (variante anatômica).
 
-
-## Placas ateromatosas carotídeas múltiplas (ultrassonografia)
-apelidos: placas ateromatosas nas carótidas, placas carotídeas múltiplas
+## Epicondilite lateral (ultrassonografia)
+apelidos: epicondilite lateral, cotovelo de tenista, epicondilite
 método: ultrassonografia
-órgão: artérias carótidas
-descrição: Placas ateromatosas, homogêneas, ecogênicas, formadoras de sombra acústica posterior, localizadas no {localização}, a maior medindo {medida} cm, sem causar estenose hemodinamicamente significativa.
-conclusão: Placas ateromatosas carotídeas, sem estenose hemodinamicamente significativa.
-
-## Placa ateromatosa carotídea única (ultrassonografia)
-apelidos: placa ateromatosa na carótida, placa carotídea única
-método: ultrassonografia
-órgão: artéria carótida
-descrição: Placa ateromatosa, homogênea, ecogênica, formadora de sombra acústica posterior, localizada no {localização}, medindo {medida} cm, sem causar estenose hemodinamicamente significativa.
-conclusão: Placa ateromatosa carotídea, sem estenose hemodinamicamente significativa.
+órgão: tendão comum dos extensores
+descrição: Aumento da espessura e diminuição da ecogenicidade do tendão comum dos extensores.
+conclusão: Epicondilite lateral.
