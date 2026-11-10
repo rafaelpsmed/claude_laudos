@@ -1,6 +1,6 @@
 # Redação de laudos de radiologia
 
-Esta pasta serve para redigir laudos de radiologia a partir de ditado. O usuário (médico radiologista) dita o exame e os achados; você monta o laudo a partir dos modelos e frases cadastrados e grava um arquivo `.md`.
+Esta pasta serve para redigir laudos de radiologia a partir de ditado. O usuário (médico radiologista) dita o exame e os achados; você monta o laudo a partir dos modelos e frases cadastrados e gera laudos em um arquivo `.rtf`.
 
 A pasta é levada de um PC para outro. Todas as regras ficam neste arquivo; use sempre caminhos relativos à pasta e não dependa de memória ou configuração local do Claude Code.
 
@@ -10,7 +10,7 @@ Responda sempre em pt-br, com acentuação correta.
 
 - `modelos.md`: modelos normais de cada exame. Cada entrada começa com `## Nome do exame`, pode ter uma linha `apelidos:` e segue com o texto do modelo (título, técnica, indicação, laudo e conclusão), em texto simples. Contém também a entrada especial `## Estrutura: descritivo conclusivo`.
 - `frases.md`: frases de achados patológicos. Cada entrada começa com `## Título do achado` e tem as linhas `apelidos:` (opcional), `método:` (opcional: ultrassonografia, tomografia, ressonância...; quando houver frases do mesmo achado para métodos diferentes, use a do método do exame), `órgão:` (opcional), `descrição:` e `conclusão:`. Campos entre chaves (`{grau}`, `{medida}`, `{lado}`...) são preenchidos com o que foi ditado.
-- `laudos/AAAA-MM-DD/HHMM_<identificação>.md`: laudos gerados.
+- Laudos gerados: um arquivo `.rtf` por paciente, contendo os exames separados.
 
 Entradas marcadas como `EXEMPLO` são só ilustração de formato: nunca as use para laudar.
 
@@ -19,21 +19,20 @@ Entradas marcadas como `EXEMPLO` são só ilustração de formato: nunca as use 
 1. O usuário dita, numa ou em várias mensagens, um ou mais exames do mesmo paciente, cada um com seus achados.
 2. Localize o modelo em `modelos.md` pelo nome ou pelos apelidos (aceite variações de grafia e de transcrição de voz). Se não houver modelo para o exame, pergunte antes de gerar.
 3. Localize cada achado em `frases.md` pelo título ou pelos apelidos.
-4. Monte cada laudo seguindo as regras abaixo e grave o arquivo.
+4. Monte cada laudo seguindo as regras abaixo e salve os exames do mesmo paciente em um único arquivo RTF, mantendo cada exame como laudo independente.
 5. No chat, informe apenas que terminou. Não repita o laudo nem as observações no chat.
 
 ### Vários exames e pacientes
 
-- Cada exame ditado gera um laudo separado, mesmo que seja do mesmo paciente. Todos os laudos do mesmo paciente ficam no mesmo arquivo, na ordem em que foram ditados.
-- Só junte dois ou mais exames num único laudo quando o usuário pedir explicitamente (ex.: "abdome e próstata no mesmo laudo"). Nesse caso, use o modelo combinado de `modelos.md` se existir; se não existir, junte os modelos com um título único, os corpos em sequência e uma única conclusão reunindo os achados de todos.
+- Cada exame ditado gera um laudo independente, com título, indicação, corpo e conclusão próprios.
+- Exames do mesmo paciente ficam em um único arquivo RTF, em sequência, com quebra de página entre os laudos. Nunca misture exames diferentes em um único laudo, mesmo quando forem ditados na mesma mensagem. Só combine exames se o usuário pedir explicitamente um laudo combinado.
 - O arquivo do paciente atual continua aberto até o usuário dizer "próximo paciente"/"novo paciente" ou ditar o nome de outro paciente. Então comece um arquivo novo.
 - Se o usuário ditar um exame que já existe no arquivo do paciente atual (ex.: um segundo US de tireoide), considere que é um novo paciente: comece um arquivo novo e registre isso nas observações do laudo.
 - Pedidos de ajuste depois de gerado ("tira o cálculo", "acrescenta cisto renal") reescrevem o laudo correspondente no mesmo arquivo.
 
 ### Onde gravar
 
-- Pasta do dia: `laudos/AAAA-MM-DD/` com a data atual. Crie a pasta se não existir.
-- Nome do arquivo: `HHMM_<identificação>.md`, com a hora de início do paciente. A identificação é o nome do paciente em minúsculas, sem acentos e com hífens (ex.: `0930_maria-silva.md`) se ele foi informado; se não, os exames abreviados (ex.: `0930_tireoide-mama-transvaginal.md`).
+- Gere um arquivo `.rtf` por paciente, usando nome claro baseado na identificação informada ou nos exames, sem inventar dados pessoais.
 
 ## Regras de montagem
 
@@ -49,9 +48,17 @@ O que o usuário ditar tem prioridade sobre `frases.md`, que tem prioridade sobr
 - Fora isso, mantenha o texto do modelo e das frases o mais literal possível: é o texto padrão do usuário. Ajuste concordância, número e gênero quando necessário.
 - Preserve a disposição do modelo (quebras de linha, hífens de lista, caixa alta, ordem das seções).
 
-### Texto simples
+### Formato e apresentação RTF
 
-O sistema da clínica não interpreta Markdown: o laudo é copiado como texto simples. Nunca use marcação Markdown no texto do laudo (`**`, `*`, `_`, `#`, `>`, crases). Os cabeçalhos `#`/`##` e as linhas `apelidos:`, `método:`, `órgão:` de `modelos.md` e `frases.md` são só estrutura dos arquivos e nunca entram no laudo.
+- Gere o arquivo final em Rich Text Format (`.rtf`).
+- Use negrito no título do exame e nos rótulos `TÉCNICA:`, `INDICAÇÃO:`, `LAUDO:` e `CONCLUSÃO:`. O texto após cada rótulo permanece sem negrito.
+- Não use marcadores gráficos (bullets); apresente os itens do laudo e da conclusão com hífen.
+- Cada exame começa em nova página no arquivo consolidado, mantendo título e conclusão próprios.
+- Escreva um comando RTF `\par` ao final de cada parágrafo e use `\par\par` para linhas em branco. Quebras comuns de linha no código-fonte não criam parágrafos visíveis no RTF. Use `\page` entre exames.
+- Delimite o negrito em grupos RTF (por exemplo, `{\b TÍTULO}`), preservando o espaço entre rótulos e texto.
+- Antes da entrega, abra ou converta o RTF com um leitor compatível e confira os títulos, parágrafos, acentos e separação dos exames. Identificar apenas a extensão ou o tipo do arquivo não basta.
+- Para evitar corrupção de acentos, gere RTF válido e represente caracteres não ASCII com escapes Unicode RTF (`\uN?`). Não duplique barras invertidas nos comandos RTF. Use escapes signed de 16 bits para valores acima de 32767 e confirme que acentos, cedilha e símbolos estão preservados.
+
 
 ### Conclusão
 
@@ -104,20 +111,4 @@ Redija a descrição e a conclusão no mesmo estilo dos modelos e frases do usu�
 
 ## Formato do arquivo gerado
 
-O arquivo inteiro é texto simples, sem marcação Markdown. Cada laudo vem precedido de uma linha de separação com seu número e exame. Quando houver observações, elas ficam num bloco logo abaixo do laudo, depois de uma linha de separação própria. Se não houver observações, o bloco não aparece.
-
-```text
-==================== LAUDO 1: ULTRASSONOGRAFIA DE TIREOIDE ====================
-
-<texto do laudo, em texto simples>
-
--------------------- OBSERVAÇÕES (NÃO COPIAR) --------------------
-- Retirado cálculo na vesícula: paciente colecistectomizado. Confirmar.
-- "Nódulo de paratireoide" não tem frase cadastrada; descrição redigida.
-
-==================== LAUDO 2: ULTRASSONOGRAFIA DE MAMAS ====================
-
-<texto do laudo>
-```
-
-As observações contêm: dúvidas, correções de conteúdo clínico feitas por você e achados sem frase cadastrada. Correções apenas de forma não entram.
+O arquivo final é RTF e pode conter vários laudos independentes do mesmo paciente, cada um em página separada. As observações, quando necessárias, ficam em bloco identificado como “OBSERVAÇÕES (NÃO COPIAR)” após o laudo correspondente. Não inclua observações se não houver dúvidas, correções de conteúdo ou achados sem frase cadastrada.

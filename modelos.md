@@ -197,3 +197,242 @@ LAUDO:
 <Demais alterações.>
 
 <Achados normais: tudo o que não foi alterado.>
+
+
+## Doppler arterial dos membros inferiores
+apelidos: doppler arterial membros inferiores, doppler arterial de membros inferiores, doppler arterial mmii
+
+DOPPLER ARTERIAL DOS MEMBROS INFERIORES
+
+TÉCNICA: Exame realizado com transdutor linear, no modo B e com avaliação do fluxo ao estudo Doppler.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Artérias femorais comuns, superficiais e profundas, poplíteas, tibiais anteriores, tibiais posteriores e fibulares, bilateralmente, pérvias, de calibres regulares, sem evidências de placas ateromatosas significativas ou aneurismas. Fluxos laminares, anterógrados, de velocidades normais e curvas espectrais trifásicas.
+
+CONCLUSÃO:
+- Dopplerfluxometria arterial dos membros inferiores sem alterações significativas ao exame.
+
+## Ultrassonografia pélvica-transvaginal
+apelidos: ultrassonografia transvaginal, us pélvica transvaginal, us transvaginal
+
+ULTRASSONOGRAFIA PÉLVICA-TRANSVAGINAL
+
+TÉCNICA: Exame realizado por via endocavitária, com transdutor multifrequencial.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Útero em anteversoflexão, contornos regulares, volume dentro dos limites da normalidade, ecotextura sólida e homogênea, com padrão de estratificação habitual dos ecos miometriais.
+Medidas uterinas: # cm, com volume aproximado de # cm³.
+- Endométrio centrado e regular, com espessura de # cm. Cavidade uterina sem conteúdo. Colo uterino sem alterações.
+- Ovários de forma, volume e ecotextura parenquimatosa normais.
+Ovário direito: # cm. Volume: # cm³.
+Ovário esquerdo: # cm. Volume: # cm³.
+- Ausência de líquido no fundo de saco de Douglas.
+
+CONCLUSÃO:
+- Ultrassonografia pélvica-transvaginal dentro dos limites da normalidade.
+
+## Ultrassonografia mamária
+apelidos: us mamária, ultrassonografia das mamas, us das mamas
+
+ULTRASSONOGRAFIA MAMÁRIA
+
+TÉCNICA: Exame realizado com transdutor linear multifrequencial.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e tecido celular subcutâneo sem anormalidades ecográficas.
+- Mamilos centrados, sem evidências de retrações.
+- Parênquima mamário com ecogenicidade parenquimatosa normal.
+- Não há evidências de nódulos sólidos ou císticos.
+
+CONCLUSÃO:
+- Ultrassonografia mamária normal.
+
+Categoria de avaliação:
+- BI-RADS® 1, exame negativo.
+
+Recomendações:
+- Recomenda-se acompanhamento periódico.
+
+Comparação com exames anteriores:
+- Exames anteriores não disponíveis para comparação.
+
+NOTA: Seguindo a recomendação do parecer da Comissão Nacional de Mamografia do Colégio Brasileiro de Radiologia (CBR), ratificado pela Associação Médica Brasileira (AMB), o exame das axilas requer estudo específico, não fazendo parte deste estudo.
+
+## Ultrassonografia das axilas
+apelidos: us axilas, ultrassonografia axilar, ultrassonografia das axilas direita e esquerda
+
+ULTRASSONOGRAFIA DAS AXILAS (DIREITA E ESQUERDA)
+
+TÉCNICA: Exame realizado com transdutor linear multifrequencial.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e tecido celular subcutâneo de aspecto usual.
+- Recessos músculo-adiposos conservados.
+- Ausência de linfonodomegalias.
+
+CONCLUSÃO:
+- Exame ultrassonográfico dentro dos limites da normalidade.
+
+## Ultrassonografia da coxa
+apelidos: us coxa, ultrassonografia da coxa esquerda
+
+ULTRASSONOGRAFIA DA COXA {lado}
+
+TÉCNICA: Exame realizado com transdutor linear multifrequencial.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e tecido adiposo subcutâneo com espessura e ecotextura preservadas.
+- Estruturas musculares com espessura preservada e padrão fibrilar característico.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
+
+## Ultrassonografia do ombro
+apelidos: us ombro, ultrassonografia do ombro esquerdo
+
+ULTRASSONOGRAFIA DO OMBRO {lado}
+
+TÉCNICA: Exame realizado com transdutor linear multifrequencial.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e subcutâneo de aspecto usual.
+- Tendões do supraespinhoso, infraespinhoso e subescapular de contornos regulares, espessura e ecotextura preservadas.
+- Tendão da cabeça longa do bíceps tópico, de morfologia e ecotextura normais.
+- Ausência de líquido e/ou espessamento da bursa subacromial-subdeltoidea.
+
+CONCLUSÃO:
+- Exame ultrassonográfico do ombro {lado} dentro dos limites da normalidade.
+
+## Ultrassonografia com Doppler venoso dos membros inferiores
+apelidos: doppler venoso membros inferiores, doppler venoso mmii, doppler para TVP
+
+ULTRASSONOGRAFIA COM DOPPLER VENOSO DOS MEMBROS INFERIORES
+
+TÉCNICA: Exame realizado com transdutor linear multifrequencial, com avaliação ao modo B, compressão e Doppler.
+
+INDICAÇÃO: Suspeita de trombose venosa profunda.
+
+LAUDO:
+
+1. DIREITO
+- Veias femorais comuns, superficiais e profundas, poplíteas e tibiais de calibres preservados, compressíveis, sem evidências de trombos no seu interior, com fluxo fásico à respiração e preenchimento completo ao Doppler.
+- Veias gastrocnêmias com calibres preservados, sem evidências de trombos.
+
+2. ESQUERDO
+- Veias femorais comuns, superficiais e profundas, poplíteas e tibiais de calibres preservados, compressíveis, sem evidências de trombos no seu interior, com fluxo fásico à respiração e preenchimento completo ao Doppler.
+- Veias gastrocnêmias com calibres preservados, sem evidências de trombos.
+
+CONCLUSÃO:
+- Teste negativo para trombose venosa profunda nos membros inferiores.
+
+
+## Ultrassonografia do aparelho urinário
+apelidos: us aparelho urinário, ultrassonografia aparelho urinário
+
+ULTRASSONOGRAFIA DO APARELHO URINÁRIO
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+
+Rins de dimensões normais, mostrando parênquima de ecogenicidade habitual, com preservação da diferenciação córtico-medular. Ausência de processos expansivos, dilatações e cálculos calicinais identificáveis ao método.
+Diâmetro longitudinal do rim D: cm; Espessura do parênquima: mm.
+Diâmetro longitudinal do rim E: cm; Espessura do parênquima: mm.
+
+Bexiga com distensão satisfatória por conteúdo anecoide, de paredes finas e regulares.
+
+CONCLUSÃO:
+Ultrassonografia do aparelho urinário sem anormalidades.
+
+
+## Ultrassonografia do quadril
+apelidos: us quadril, ultrassonografia quadril direito
+
+ULTRASSONOGRAFIA DO QUADRIL {lado}
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Pele e subcutâneo normais.
+- Tendões regionais de espessura e ecotextura normais.
+- Musculatura regional com disposição fascicular conservada. Ausência de áreas de rotura.
+- Ausência de derrame articular.
+- Ausência de distensões bursais.
+
+CONCLUSÃO:
+- Exame ultrassonográfico dentro dos limites da normalidade.
+
+
+## Ultrassonografia da próstata
+apelidos: us próstata, ultrassonografia próstata, ultrassonografia prostática
+
+ULTRASSONOGRAFIA DA PRÓSTATA
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Próstata com contornos regulares e ecogenicidade habitual.
+- Medidas da próstata: # cm (peso estimado = # g).
+Vesículas seminais de topografia, morfologia, dimensões e ecogenicidade normais.
+Ureteres distais sem alterações detectáveis ao método.
+Bexiga urinária de paredes regulares e capacidade conservada. Conteúdo anecoico homogêneo.
+- Volume urinário pré-miccional: # mL.
+- Volume residual após a micção: # mL.
+
+CONCLUSÃO:
+- Aspecto ultrassonográfico normal das estruturas avaliadas.
+
+
+## Ultrassonografia das carótidas e vertebrais com Doppler
+apelidos: us carótidas, doppler carótidas, ultrassonografia carotídea com Doppler
+
+ULTRASSONOGRAFIA DAS CARÓTIDAS E VERTEBRAIS COM DOPPLER
+
+Indicação clínica: pesquisa de placas ateromatosas
+
+LAUDO:
+
+- Artérias carótidas comuns, internas e externas de trajeto e calibre normais.
+
+- Não caracterizamos placas ateromatosas no presente exame.
+
+- Complexo médio intimal direito com espessura de cm.
+
+- Complexo médio intimal esquerdo com espessura de cm.
+
+- Dopplerfluxometria preservada em todos os segmentos arteriais analisados.
+
+- Artérias vertebrais com fluxo presente e anterógrado.
+
+DOPPLERFLUXOMETRIA:
+                                                          VPSM(cm/s)   VPDM(cm/s)
+CCD		      
+CID			
+CED			
+VD			
+CCE			
+CIE			
+CEE			
+VE			
+
+CONCLUSÃO: 
+- Exame sem alterações significativas.
