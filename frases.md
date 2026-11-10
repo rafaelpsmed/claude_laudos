@@ -63,3 +63,10 @@ método: tomografia
 órgão: corpos vertebrais
 descrição: Alteração cortical no segmento anterossuperior de {nível}, caracterizando vértebra em limbus (variante anatômica).
 conclusão: Vértebra em limbus em {nível} (variante anatômica).
+
+## Epicondilite lateral (ultrassonografia)
+apelidos: epicondilite lateral, cotovelo de tenista, epicondilite
+método: ultrassonografia
+órgão: tendão comum dos extensores
+descrição: Aumento da espessura e diminuição da ecogenicidade do tendão comum dos extensores.
+conclusão: Epicondilite lateral.

@@ -162,6 +162,26 @@ A injeção venosa de meio de contraste paramagnético não revelou zonas de rea
 CONCLUSÃO:
 - Não identificamos alterações patológicas apreciáveis ao método.
 
+## Ultrassonografia do cotovelo
+apelidos: us cotovelo, usg cotovelo, ultrassom cotovelo
+
+ULTRASSONOGRAFIA DO COTOVELO {lado}
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Tendões conjuntos dos músculos flexores e extensores visualizados junto aos epicôndilos medial e lateral com ecotextura e espessura preservados.
+
+- Tendão do músculo tríceps e do bíceps visualizados em seu 1/3 distal, com espessura e ecotextura preservadas.
+
+- Ausência de derrame articular.
+
+- Ausência de distensão bursal.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
+
 ## EXEMPLO — substituir: Estrutura: descritivo conclusivo
 
 <TÍTULO DO EXAME>
