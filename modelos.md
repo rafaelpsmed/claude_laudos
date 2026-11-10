@@ -436,3 +436,26 @@ VE
 
 CONCLUSÃO: 
 - Exame sem alterações significativas.
+
+
+## Ultrassonografia do joelho
+apelidos: us joelho, usg joelho, ultrassonografia de joelho
+
+ULTRASSONOGRAFIA DE JOELHO {lado}
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Tendão do quadríceps femoral, bíceps femoral e patelar com ecotextura preservada e espessura normal.
+
+- Trato ílio-tibial e tendões da pata anserina de aspecto usual.
+
+- Ligamentos colaterais medial e lateral com textura e espessura preservadas.
+
+- Não identificamos líquido em quantidade patológica na cavidade articular, nem nas bainhas tendíneas.
+
+- Não identificamos lesões expansivas na fossa poplítea.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
