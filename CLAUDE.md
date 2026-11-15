@@ -26,7 +26,7 @@ Entradas marcadas como `EXEMPLO` são só ilustração de formato: nunca as use 
 
 - Cada exame ditado gera um laudo independente, com título, indicação, corpo e conclusão próprios.
 - Exames do mesmo paciente ficam em um único arquivo RTF, em sequência, com quebra de página entre os laudos. Nunca misture exames diferentes em um único laudo, mesmo quando forem ditados na mesma mensagem. Só combine exames se o usuário pedir explicitamente um laudo combinado.
-- O arquivo do paciente atual continua aberto até o usuário dizer "próximo paciente"/"novo paciente" ou ditar o nome de outro paciente. Então comece um arquivo novo.
+- Considere o arquivo atual do paciente encerrado após o usuário terminar de ditar os achados e gerar o respectivo arquivo rtf. Só o reabra, se o usuário especificamente indicar que o próximo laudo pertence ao paciente anterior.
 - Se o usuário ditar um exame que já existe no arquivo do paciente atual (ex.: um segundo US de tireoide), considere que é um novo paciente: comece um arquivo novo e registre isso nas observações do laudo.
 - Pedidos de ajuste depois de gerado ("tira o cálculo", "acrescenta cisto renal") reescrevem o laudo correspondente no mesmo arquivo.
 
