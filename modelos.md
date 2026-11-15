@@ -99,6 +99,22 @@ LAUDO:
 CONCLUSÃO:
 - Estudo ultrassonográfico sem evidentes anormalidades apreciáveis pelo método.
 
+## Ultrassonografia de partes moles
+apelido: us partes moles, ultrassonografia de partes moles
+
+ULTRASSONOGRAFIA DE PARTES MOLES {REGIÃO INFORMADA}
+TÉCNICA: Exame realizado com transdutor multifrequencial.
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+Não foram observadas alterações texturais significativas, lesões expansivas sólidas ou císticas e/ou coleções líquidas detectáveis por este método diagnóstico no local examinado.
+
+O padrão textural dos planos subcutâneo e muscular no local examinado não mostra alterações ultrassonográficas dignas de nota.
+
+Conclusão: 
+Exame sem alterações significativas.
+
 ## Ultrassonografia do cotovelo
 apelidos: us cotovelo, usg cotovelo, ultrassom cotovelo
 
