@@ -1,5 +1,7 @@
 # Modelos de laudo
 
+1. ULTRASSONOGRAFIA
+
 ## Ultrassonografia de abdome total
 apelidos: us abdome total, usg abdome total, abdome total
 
@@ -52,9 +54,6 @@ Volume total da glândula: # cm³.
 CONCLUSÃO:
 - Estudo ultrassonográfico dentro dos limites da normalidade.
 
-
-
-
 ## Dopplerfluxometria arterial da aorta abdominal e artérias ilíacas
 apelidos: doppler aorta, doppler ilíacas, doppler arterial de aorta e ilíacas, dopplerfluxometria aorta ilíacas
 
@@ -100,68 +99,6 @@ LAUDO:
 CONCLUSÃO:
 - Estudo ultrassonográfico sem evidentes anormalidades apreciáveis pelo método.
 
-## Tomografia computadorizada multislice da coluna lombar
-apelidos: tc coluna lombar, tomografia coluna lombar, tc lombar, tomografia lombar
-
-TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA LOMBAR
-
-MÉTODO:
-Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
-
-INDICAÇÃO: {indicação}
-
-ANÁLISE:
-Corpos vertebrais alinhados, com alturas, formas e densidades normais.
-Espaços discais com alturas preservadas.
-Demais espaços discais preservados.
-Discos intervertebrais sem sinais de herniações e/ou protrusões.
-Canal vertebral e forames de conjugação com calibres normais.
-Elementos dos arcos posteriores íntegros.
-Estruturas musculares paravertebrais com atenuação conservada.
-
-IMPRESSÃO TOMOGRÁFICA:
-Exame sem alterações perceptíveis ao método.
-
-## Tomografia computadorizada multislice da coluna dorsal e lombar
-apelidos: tc coluna dorsal e lombar, tc coluna dorsolombar, tomografia coluna dorsal e lombar, tomografia coluna dorsolombar, tc dorsolombar
-
-TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA DORSAL E LOMBAR
-
-MÉTODO:
-Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
-
-INDICAÇÃO: {indicação}
-
-ANÁLISE:
-Corpos vertebrais dorsais e lombares alinhados, com alturas, formas e densidades normais.
-Espaços discais com alturas preservadas.
-Discos intervertebrais sem sinais de herniações e/ou protrusões.
-Canal vertebral e forames de conjugação com calibres normais.
-Elementos dos arcos posteriores íntegros.
-Estruturas musculares paravertebrais com atenuação conservada.
-
-IMPRESSÃO TOMOGRÁFICA:
-Exame sem alterações perceptíveis ao método.
-
-## Ressonância magnética de mão
-apelidos: rm mão, rm de mão, ressonância de mão, ressonância mão
-
-RESSONÂNCIA MAGNÉTICA DE MÃO {lado}
-
-INDICAÇÃO: {indicação}
-
-TÉCNICA: Exame realizado em aparelho de alto campo (1,5 Tesla), pela técnica spin-echo e gradiente echo com imagens ponderadas em T1 / T2 / DP algumas delas com saturação de sinal de gordura, antes e após a injeção do meio de contraste paramagnético.
-
-LAUDO:
-Estruturas ósseas de morfologia e características de sinal e alinhamento preservados.
-Nervos mediano e ulnar de espessura e sinal normais.
-Complexo triangular fibrocartilaginoso de aspecto normal.
-Não foi observado derrame articular.
-A injeção venosa de meio de contraste paramagnético não revelou zonas de realce anômalo.
-
-CONCLUSÃO:
-- Não identificamos alterações patológicas apreciáveis ao método.
-
 ## Ultrassonografia do cotovelo
 apelidos: us cotovelo, usg cotovelo, ultrassom cotovelo
 
@@ -181,23 +118,6 @@ LAUDO:
 
 CONCLUSÃO:
 - Não identificamos alterações patológicas apreciáveis ao método.
-
-## EXEMPLO — substituir: Estrutura: descritivo conclusivo
-
-<TÍTULO DO EXAME>
-
-TÉCNICA: <técnica do modelo do exame>
-
-INDICAÇÃO: {indicação}
-
-LAUDO:
-
-<Achados mais relevantes.>
-
-<Demais alterações.>
-
-<Achados normais: tudo o que não foi alterado.>
-
 
 ## Doppler arterial dos membros inferiores
 apelidos: doppler arterial membros inferiores, doppler arterial de membros inferiores, doppler arterial mmii
@@ -459,3 +379,185 @@ LAUDO:
 
 CONCLUSÃO:
 - Não identificamos alterações patológicas apreciáveis ao método.
+
+2. TOMOGRAFIA
+
+## Tomografia computadorizada multislice do abdome superior e pelve
+apelidos: tc abdome total, tomografia abdome total
+
+TOMOGRAFIA COMPUTADORIZADA DO ABDOME SUPERIOR E PELVE
+
+TÉCNICA: Exame realizado sob técnica multislice, com imagens processadas e analisadas em workstation, sem a injeção endovenosa do produto de contraste, conforme solicitação clínica.
+
+Indicação clínica: {indicação}
+
+ANÁLISE:
+-Fígado homogêneo com volume, contornos e densidade normais.
+-Não há sinais de dilatação de vias biliares intra ou extra-hepáticas.
+-Baço de forma, contornos, dimensões e densidade normais.
+-Pâncreas de contornos nítidos com forma, volume e densidade normais.
+-Glândulas adrenais de topografia, configuração, espessura e densidade anatômicas.
+-Rins tópicos, de contornos regulares e  dimensões  normais, sem sinais de litíase ou hidronefrose.
+-Retroperitônio livre de processos expansivos ou linfonodomegalias.
+-Aorta e veia cava inferior de trajeto e calibre usuais.
+-Bexiga de capacidade normal, contornos regulares, de conteúdo líquido homogêneo. Gordura perivesical preservada. 
+-Não há sinais de linfonodomegalias ou processo expansivo pélvico.
+IMPRESSÃO DIAGNÓSTICA:
+- Exame dentro dos limites da normalidade. 
+
+## Tomografia computadorizada multislice do tórax
+apelidos: tc de tórax, tomografia de tórax
+
+
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DO TÓRAX
+
+TÉCNICA: Exame realizado sob técnica multislice, com imagens processadas e analisadas em workstation, sem a administração endovenosa de contraste.
+
+Indicação clínica: 
+
+LAUDO:
+
+- Pulmões de volume, atenuação e vascularização normais.
+- Não há sinais de derrame pleural.
+- Traquéia e brônquios-fonte permeáveis de trajeto e calibre usuais.
+- Mediastino centrado, de contornos e amplitude nos limites normais, sem evidências de linfonodomegalias. 
+- Área cardíaca e vasos da base de dimensões usuais.
+
+CONCLUSÃO:  
+- Exame tomográfico do tórax dentro dos limites da normalidade.
+
+
+## Tomografia computadorizada multislice da coluna lombar
+apelidos: tc coluna lombar, tomografia coluna lombar, tc lombar, tomografia lombar
+
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA LOMBAR
+
+MÉTODO:
+Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Corpos vertebrais alinhados, com alturas, formas e densidades normais.
+Espaços discais com alturas preservadas.
+Demais espaços discais preservados.
+Discos intervertebrais sem sinais de herniações e/ou protrusões.
+Canal vertebral e forames de conjugação com calibres normais.
+Elementos dos arcos posteriores íntegros.
+Estruturas musculares paravertebrais com atenuação conservada.
+
+IMPRESSÃO TOMOGRÁFICA:
+Exame sem alterações perceptíveis ao método.
+
+## Tomografia computadorizada multislice da coluna dorsal e lombar
+apelidos: tc coluna dorsal e lombar, tc coluna dorsolombar, tomografia coluna dorsal e lombar, tomografia coluna dorsolombar, tc dorsolombar
+
+TOMOGRAFIA COMPUTADORIZADA MULTISLICE DA COLUNA DORSAL E LOMBAR
+
+MÉTODO:
+Imagens obtidas por aquisição volumétrica sem o uso de contraste venoso, com pós-processamento e análise em workstation.
+
+INDICAÇÃO: {indicação}
+
+ANÁLISE:
+Corpos vertebrais dorsais e lombares alinhados, com alturas, formas e densidades normais.
+Espaços discais com alturas preservadas.
+Discos intervertebrais sem sinais de herniações e/ou protrusões.
+Canal vertebral e forames de conjugação com calibres normais.
+Elementos dos arcos posteriores íntegros.
+Estruturas musculares paravertebrais com atenuação conservada.
+
+IMPRESSÃO TOMOGRÁFICA:
+Exame sem alterações perceptíveis ao método.
+
+
+3. RESSONÂNCIA
+
+## Ressonância magnética de mão
+apelidos: rm mão, rm de mão, ressonância de mão, ressonância mão
+
+RESSONÂNCIA MAGNÉTICA DE MÃO {lado}
+
+INDICAÇÃO: {indicação}
+
+TÉCNICA: Exame realizado em aparelho de alto campo (1,5 Tesla), pela técnica spin-echo e gradiente echo com imagens ponderadas em T1 / T2 / DP algumas delas com saturação de sinal de gordura, antes e após a injeção do meio de contraste paramagnético.
+
+LAUDO:
+Estruturas ósseas de morfologia e características de sinal e alinhamento preservados.
+Nervos mediano e ulnar de espessura e sinal normais.
+Complexo triangular fibrocartilaginoso de aspecto normal.
+Não foi observado derrame articular.
+A injeção venosa de meio de contraste paramagnético não revelou zonas de realce anômalo.
+
+CONCLUSÃO:
+- Não identificamos alterações patológicas apreciáveis ao método.
+
+## Ressonância magnética do joelho
+apelidos: rm de joelho {direito ou esquerdo}, ressonância de joelho {direito ou esquerdo}
+
+
+RESSONÂNCIA MAGNÉTICA DO JOELHO {DIREITO/ESQUERDO}
+
+TÉCNICA: Exame realizado em aparelho  de  alto campo,  pela técnica spin-echo e gradiente-echo  com  imagens ponderadas em T1 / T2 / DP algumas delas com saturação de sinal de gordura, sem a injeção do meio de contraste paramagnético. 
+
+Indicação clínica: {indicação}
+
+LAUDO: 
+
+- Estruturas ósseas de morfologia e sinal  preservados.
+- Cartilagens que revestem a articulação fêmoro-tibial com espessura e sinal normais. 
+- Cartilagem troclear e patelar de aspecto usual.
+- Meniscos medial e lateral de morfologia, sinal e inserções capsulares normais.
+- Ligamentos cruzados anterior e posterior e colaterais medial e lateral de morfologia e sinal normais.
+- Não foram observados derrames articulares significativos.
+- Tendão do músculo quadríceps e ligamento patelar de aspecto normal.
+- Estruturas musculares de morfologia e sinal normais.
+- Fossa poplítea de aspecto normal.
+- Porções visualizadas do trato ílio-tibial, tendões do bíceps femoral e da pata anserina com espessura 
+ e sinal normais.
+
+CONCLUSÃO: 
+- Não identificamos alterações patológicas apreciáveis ao método.
+
+## Ressonância da Coluna Lombar/Cervical/Dorsal
+apelidos: rm de coluna Lombar/Cervical/Dorsal, ressoância da coluna Lombar/Cervical/Dorsal
+
+RESSONÂNCIA MAGNÉTICA DA COLUNA {CERVICAL OU DORSAL OU LOMBAR}
+
+TÉCNICA: Exame realizado em aparelho de alto campo pela técnica spin-echo, fast spin echo com seqüências ponderadas em T1/T2 realizando-se aquisições multiplanares algumas delas com saturação de sinal de gordura e sem a injeção do meio de contraste paramagnético. 
+
+Indicação clínica: {indicação}
+
+LAUDO: 
+
+- Corpos vertebrais de alinhamento, morfologia e características de sinal de ressonância magnética preservados.
+- Discos intervertebrais tópicos, com sinal habitual.
+- Canal vertebral de amplitude preservada.
+- Cone medular de localização habitual. {ATENÇÃO: RETIRAR ESSA FRASE SE FOR COLUNA CERVICAL}
+- Articulações interapofisárias de aspecto preservado.
+- Forames intervertebrais de calibre normal.
+- Elementos do arco posterior de aspecto usual.
+- Porções visualizadas da musculatura paravertebral com morfologia e sinal normais.
+
+CONCLUSÃO: 
+- Não identificamos alterações patológicas apreciáveis ao método.
+
+
+
+
+
+
+## EXEMPLO — substituir: Estrutura: descritivo conclusivo
+
+<TÍTULO DO EXAME>
+
+TÉCNICA: <técnica do modelo do exame>
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+<- Achados mais relevantes:>
+
+<- Achados normais:>
+<Restante do laudo que não possui alterações>
