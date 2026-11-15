@@ -396,6 +396,35 @@ LAUDO:
 CONCLUSÃO:
 - Não identificamos alterações patológicas apreciáveis ao método.
 
+## Ultrassonografia de bolsa escrotal sem/com Doppler
+apelidos: us bolsa escrotal com/sem Doppler
+
+ULTRASSONOGRAFIA TESTICULAR {COM DOPPLER - ACRESCENTAR SE INFORMADO}
+
+TÉCNICA: Realizado estudo com transdutor linear multifrequencial nas modalidades bidimensional, Doppler espectral, Color e Power Doppler.
+
+INDICAÇÃO: {indicação}
+
+LAUDO:
+
+- Testículos tópicos, simétricos, com dimensões normais, contornos regulares e ecotextura homogênea. Ausência de nodulações sólidas.
+- Testículo direito mede      :  x  x  cm (volume: cm³).
+- Testículo esquerdo mede : x  x  cm (volume: cm³)
+- Epidídimos de espessura e ecotextura normais.
+- Funículos espermáticos com morfologia e dimensões normais.
+- Ausência de sinais de hidrocele
+
+{ABAIXO ENTRE ## APENAS SE O EXAME FOR INFORMADO COM DOPPLER}
+##
+Testículos com perfusão vascular uniforme e simétrica.
+Artérias testiculares com fluxo de amplitude e velocidade normais.
+Plexos pampiniformes com calibres normais (< 3,0 mm) e fluxo venoso anterógrado típico, sem refluxo detectável à manobra de Valsalva nos compartimentos inguinal, supratesticular, hilar ou infratesticular.
+Refluxo breve (fisiológico < 1 segundo) / intermediário (decrescente < 2 segundos) / permanente (em platô > 2 segundos)
+##
+
+CONCLUSÃO:
+Estudo ultrassonográfico sem anormalidades detectáveis ao método.
+
 2. TOMOGRAFIA
 
 ## Tomografia computadorizada multislice do abdome superior e pelve
